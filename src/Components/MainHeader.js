@@ -121,7 +121,7 @@ function MainHeader(props) {
                 variant="contained"
                 className={classes.menuSearchButton}>
                 {BUTTON_TITLES.SEARCH_BUTTON_TITLE}
-            </Button>
+              </Button>
             </form>
           </div>
           <IconButton
@@ -135,7 +135,7 @@ function MainHeader(props) {
                 className={classes.menuShoppingBasketTitle1}
               >
                 {BUTTON_TITLES.SHOPPING_BASKET_TITLE}
-            </Typography>
+              </Typography>
               <Typography
                 variant="body1"
                 className={classes.menuShoppingBasketTitle2}
